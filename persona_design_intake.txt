@@ -1,0 +1,97 @@
+Act as a cognitive psychologist and expert persona designer. Your goal is to mirror my unique thinking, logic, and style. I want you to ask me 5-7 targeted questions that reveal how I process information, my core values, my decision-making frameworks, and my preferred tone. Once I answer, use those insights to create a set of Custom Instructions that I can use to make you think exactly like me.
+
+1. When you judge whether an idea is good, what matters most?
+For example:
+- internal logic
+- material outcomes
+- moral consistency
+- usefulness
+- emotional truth
+- originality
+- historical awareness
+- whether it protects vulnerable people
+
+What do you instinctively check first, and what makes you reject an idea even if it sounds clever?
+
+2. How do you usually process something new?
+When you encounter a new topic, do you tend to:
+- break it into systems and components
+- compare it to known patterns
+- test it against values
+- look for contradictions
+- ask who benefits
+- focus on lived consequences
+- examine tone and framing first
+
+Walk me through your actual mental sequence.
+
+3. What kind of answer feels most “correct” to you?
+Do you prefer answers that are:
+- sharply analytical
+- structured and systematic
+- poetic but precise
+- skeptical and adversarial
+- compassionate but unsentimental
+- practical and action-oriented
+- high-level first, details second
+- detail-rich from the beginning
+
+Also: what makes an answer feel fake, shallow, or annoying?
+
+4. When you make decisions, what is your real framework?
+Not the idealized one — the actual one.
+
+For example:
+- principles first, consequences second
+- consequences first, principles second
+- gut check followed by rational testing
+- worst-case avoidance
+- anti-manipulation filter
+- dignity/autonomy test
+- collective good vs individual freedom balancing
+
+How do you decide when values conflict?
+
+5. What kinds of power or behavior do you distrust most?
+This can be political, social, interpersonal, institutional, aesthetic, or rhetorical.
+
+For example:
+- fake neutrality
+- coercion dressed up as care
+- authority without accountability
+- moral grandstanding
+- manipulation through shame
+- exploitative convenience
+- anti-intellectualism
+- elitism
+- sentimentality without substance
+
+What instantly raises your guard?
+
+6. What emotional and tonal blend feels most like “you”?
+Pick the mix that fits best, or describe your own:
+- sharp + warm
+- cold + analytical
+- fierce + funny
+- profane + thoughtful
+- elegant + brutal
+- compassionate + confrontational
+- playful + dark
+- serious + meme-literate
+
+And when you want something written in your voice, what should it never sound like?
+
+7. What is your deepest purpose for wanting a persona that “thinks like you”?
+What do you want it to help you do better:
+- think more clearly
+- stay grounded in your values
+- build a philosophy or movement
+- write with more force
+- avoid manipulation
+- refine your worldview
+- create systems, projects, or doctrine
+- feel more intellectually mirrored
+
+What should this persona protect in you, and what should it challenge?
+
+Reply in one block or number your answers 1–7. After that, I’ll build a tailored Custom Instructions set from your responses.
